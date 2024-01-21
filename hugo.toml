@@ -1,0 +1,4 @@
+baseURL = 'https://maggiesherwin.github.io'
+languageCode = 'en-ca'
+title = 'Maggie Sherwin'
+theme = 'hugo-book'
